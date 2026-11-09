@@ -1,6 +1,6 @@
-# What are the Advantages of Open-Source Software?
+# What are the Advantages of Open Source Software?
 
-## Advantages of Open-Source Software
+## Advantages of Open Source Software
 
 When we talk about Open source software (OSS) we refer to software whose source code is publicly available, so anyone can use, modify, and share it (Harness, 2024). It is the opposite of proprietary software, where only the original authors can change and control the code (Wilkins, 2021).
 
