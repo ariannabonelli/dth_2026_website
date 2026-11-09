@@ -5,8 +5,8 @@
 
 /* here we set up project specific variables - this way we can keep the style consistent across all pages and elements. You can also create variable names for specific fonts and other elements */
 :root {
-  --white: #e81515;
-  --black: #000000;
+  --white: #ffffff;
+  --black: #f9d90a;
   --blue: #6200ff;
   --light-blue: #b07ffb;
   --green: #ba73f0;
