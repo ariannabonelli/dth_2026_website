@@ -14,3 +14,5 @@ Because OSS often relies on volunteers, the effort can be inconsistent, which ma
 
 - A related problem is limited functionality. OSS may not offer the same range as proprietary software, especially in niche areas (Mathpati, 2023). From a student’s perspective, a project may require specific tools. A free tool might exist, but a paid professional tool often offers more advanced options.
 
+https://www.cobalt.io/blog/risks-of-open-source-software
+https://youtu.be/rSmkCdmL3KE
