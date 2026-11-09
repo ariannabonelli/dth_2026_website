@@ -1,6 +1,6 @@
-# What are the disadvantages of open-source software?
+# What are the disadvantages of Open Source Software?
 
-## Disadvantages of open-source software
+## Disadvantages of Open Source Software
 
 Despite its strengths, OSS also has clear disadvantages. 
  
