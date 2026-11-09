@@ -1,16 +1,17 @@
 # Page one
 
-## This is the headline of your first page
+## Advantages of Open-Source Software
 
-This is the first paragraph. The first paragraph after a headline is displayed in a lighter font weight.
+When we talk about Open source software (OSS) we refer to software whose source code is publicly available, so anyone can use, modify, and share it (Harness, 2024). It is the opposite of proprietary software, where only the original authors can change and control the code (Wilkins, 2021).
 
-Everything you see here is written in the file **pages/page_one.md**. Change the text there, save, and reload the page. You can use **bold**, *italics*, [links](https://www.sdu.dk) and lists:
+### Why openness works
 
-- one item
-- another item
+The greatest strength are: 
 
-### A smaller headline
+- Collaboration --> contributors bring ideas, skills, and fixes, which improve the software (Harness, 2024). Many projects are guided by a core team of maintainers, who set the direction, review contributions, and make sure coding standards are followed (Wilkins, 2021). When a user finds a bug, they can read the contributor guidelines and propose a fix themselves (Wilkins, 2021).
+ 
+- Transparency: OSS also works with transparency. On GitHub, for example, anyone can see a project's licence, its latest changes, and its contributors. The licence of Zotero, for instance, states clearly what users are allowed to do with the code (Wilkins, 2021). 
 
-You can also add images from the assets folder:
+- Flexbility: finally, OSS is flexible and affordable. Users can adapt the code to their own and others’ needs, and there are usually no licence or maintenance fees, unlike with proprietary software (Harness, 2024). 
 
-![The beach at Skagen](./assets/images/skagen.jpg)
+This freedom still has limits, however, because every user must follow the terms of the licence. OSS also encourages knowledge sharing. Contributors learn from each other and gain experience in new fields through community-based work. 
