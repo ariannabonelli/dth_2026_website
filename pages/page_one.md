@@ -16,5 +16,6 @@ The greatest strength are:
 
 This freedom still has limits, however, because every user must follow the terms of the licence. OSS also encourages knowledge sharing. Contributors learn from each other and gain experience in new fields through community-based work. 
 
-Open Source Software Explained: Benefits, Challenges, and How It Works
+[Open Source Software Explained: Benefits, Challenges, and How It Works](https://youtu.be/rSmkCdmL3KE)
+
 https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/
