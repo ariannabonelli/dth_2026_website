@@ -1,7 +1,7 @@
 /* root setup */
 
 /* here we import the Lexend font from Google fonts. You can browse other fonts at https://fonts.google.com/*/
-@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
 
 /* here we set up project specific variables - this way we can keep the style consistent across all pages and elements. You can also create variable names for specific fonts and other elements */
 :root {
@@ -11,9 +11,9 @@
   --light-blue: #ffdcfd;
   --green: #f8c4fa;
   --purple: #ceaeea;
-  --red: #f100f9;
+  --red: #f700ff;
   --yellow: #fddd0d;
-  --projectFont: Lexend, Arial, sans-serif;
+  --projectFont: Merriweather, Georgia, serif;
 }
 
 /* individual element styles */
