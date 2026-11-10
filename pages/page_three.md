@@ -22,9 +22,9 @@ Main conditions: Modified versions must disclose changes and retain the same lic
 
 The Zotero name is trademarked and cannot be used freely for modified versions.
 
-2.  Last change:
+2.  Last change: 10th of November 
 
-3.  People:
+3.  People: 90 contributors. Most development relies on one main contributor and two others. This raises concerns about its long-term sustainability if they stop.
 
 4.  Questions:
 
