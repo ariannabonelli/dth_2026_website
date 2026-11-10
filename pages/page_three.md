@@ -16,7 +16,12 @@ As a student in the Faculty of Humanities, I can see the usefulness of this OSS.
 Zotero helps me collect and organise the sources while automatically generating citations and bibliographies, making the research process easier and more efficient. 
 
 ### The five checks
-1.  Licence: GNU Affero General Public License, version 3 (AGPLv3). is a "free, copyleft license for software and other kinds of works, specifically designed to ensure cooperation with the community in the case of network server software." It provides freedom to share and change all versions of a program to make sure it remains a free software for all its users.
+1.  Licence: GNU Affero General Public License, version 3 (AGPLv3). 
+Is a "free, copyleft license for software and other kinds of works, specifically designed to ensure cooperation with the community in the case of network server software." 
+
+Main conditions: Modified versions must disclose changes and retain the same licence. if run on a server, the source codemust be made available to users (Affero rule). No additional restictions or fees can be imposed
+
+The Zotero name is trademarked and cannot be used freely for modified versions.
 
 2.  Last change:
 
