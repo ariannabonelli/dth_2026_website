@@ -6,7 +6,7 @@ When we talk about Open source software (OSS) we refer to software whose source 
 
 ### Why openness works
 
-The greatest strength are: 
+The greatest strengths are: 
 
 - Collaboration: contributors bring ideas, skills, and fixes, which improve the software (Harness, 2024). Many projects are guided by a core team of maintainers, who set the direction, review contributions, and make sure coding standards are followed (Wilkins, 2021). When a user finds a bug, they can read the contributor guidelines and propose a fix themselves (Wilkins, 2021).
  

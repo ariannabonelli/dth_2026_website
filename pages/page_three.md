@@ -11,7 +11,7 @@ It was created by "a team of faculty, students, and developers at RRCHNM (Roy Ro
 
 
 
-As a student in the Faculty of Humanities, I can see the usefulness of this OSS. Writing research papers and essays involves consulting many online sources, which can make keeping track of references time consuming.
+As a student in the Faculty of Humanities, I can see the usefulness of this OSS. Writing research papers and essays involves consulting many online sources, which can make keeping track of references time-consuming.
 
 Zotero helps me collect and organise the sources while automatically generating citations and bibliographies, making the research process easier and more efficient. 
 
