@@ -28,7 +28,7 @@ The Zotero name is trademarked and cannot be used freely for modified versions.
 
 4.  Questions: it has 2,690 closed and 1,413 open issues, reported by developers. Users report problems and subit feature requests through "Zotero Forum", a very active platform.
 
-5.  Money:
+5.  Money: Zoter is funded through paid storage subscriptions from individuals and organizations, while the software itself is free. They also offer plans for research labs and institutions.
 
 
 
