@@ -16,3 +16,12 @@ As a student in the Faculty of Humanities, I can see the usefulness of this OSS.
 Zotero helps me collect and organise the sources while automatically generating citations and bibliographies, making the research process easier and more efficient. 
 
 ### The five checks
+
+
+
+
+https://www.zotero.org/
+
+https://www.zotero.org/support/quick_start_guide
+
+https://rrchnm.org/blog/new-directions-at-rrchnm/
