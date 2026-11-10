@@ -24,9 +24,9 @@ The Zotero name is trademarked and cannot be used freely for modified versions.
 
 2.  Last change: 10th of November 
 
-3.  People: 90 contributors. Most development relies on one main contributor and two others. This raises concerns about its long-term sustainability if they stop.
+3.  People: 90 contributors. Most development relies on one main contributor and two others.
 
-4.  Questions:
+4.  Questions: it has 2,690 closed and 1,413 open issues, reported by developers. Users report problems and subit feature requests through "Zotero Forum", a very active platform.
 
 5.  Money:
 
