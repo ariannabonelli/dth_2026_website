@@ -29,3 +29,15 @@ https://www.zotero.org/
 https://www.zotero.org/support/quick_start_guide
 
 https://rrchnm.org/blog/new-directions-at-rrchnm/
+
+https://github.com/zotero/zotero?tab=License-1-ov-file 
+
+https://github.com/zotero/zotero/commits/main/
+
+https://github.com/zotero/zotero/graphs/contributors?from=25%2F07%2F2026
+
+https://github.com/zotero/zotero/issues
+
+https://forums.zotero.org/
+
+https://www.zotero.org/storage
