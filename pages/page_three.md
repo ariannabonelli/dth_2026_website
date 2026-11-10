@@ -14,7 +14,7 @@ As a student in the Faculty of Humanities, I can see the usefulness of this OSS.
 Zotero helps me collect and organise the sources while automatically generating citations and bibliographies, making the research process easier and more efficient. 
 
 ### The five checks
-1.  Licence: GNU Affero General Public License, version 3 (AGPLv3). 
+1.  **Licence**: GNU Affero General Public License, version 3 (AGPLv3). 
 
 Is a "free, copyleft license for software and other kinds of works, specifically designed to ensure cooperation with the community in the case of network server software." 
 
@@ -22,13 +22,13 @@ Main conditions: Modified versions must disclose changes and retain the same lic
 
 The Zotero name is trademarked and cannot be used freely for modified versions.
 
-2.  Last change: 10th of November 
+2.  **Last change**: 10th of November 
 
-3.  People: 90 contributors. Most development relies on one main contributor and two others.
+3.  **People**: 90 contributors. Most development relies on one main contributor and two others.
 
-4.  Questions: it has 2,690 closed and 1,413 open issues, reported by developers. Users report problems and subit feature requests through "Zotero Forum", a very active platform.
+4.  **Questions**: it has 2,690 closed and 1,413 open issues, reported by developers. Users report problems and subit feature requests through "Zotero Forum", a very active platform.
 
-5.  Money: Zoter is funded through paid storage subscriptions from individuals and organizations, while the software itself is free. They also offer plans for research labs and institutions.
+5.  **Money**: Zoter is funded through paid storage subscriptions from individuals and organizations, while the software itself is free. They also offer plans for research labs and institutions.
 
 
 
