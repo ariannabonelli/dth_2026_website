@@ -9,14 +9,13 @@ It synchronises all our data across different devices and allows us to write pap
   
 It was created by "a team of faculty, students, and developers at RRCHNM (Roy Rosenzweig Center for History and New Media)". It was initially developed with humanities students in mind, but is now used across many other disciplines as well (Mills, 2021). 
 
-
-
 As a student in the Faculty of Humanities, I can see the usefulness of this OSS. Writing research papers and essays involves consulting many online sources, which can make keeping track of references time-consuming.
 
 Zotero helps me collect and organise the sources while automatically generating citations and bibliographies, making the research process easier and more efficient. 
 
 ### The five checks
 1.  Licence: GNU Affero General Public License, version 3 (AGPLv3). 
+
 Is a "free, copyleft license for software and other kinds of works, specifically designed to ensure cooperation with the community in the case of network server software." 
 
 Main conditions: Modified versions must disclose changes and retain the same licence. if run on a server, the source codemust be made available to users (Affero rule). No additional restictions or fees can be imposed
