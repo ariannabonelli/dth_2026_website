@@ -12,9 +12,11 @@ The greatest strength are:
  
 - Transparency: OSS also works with transparency. On GitHub, for example, anyone can see a project's licence, its latest changes, and its contributors. The licence of Zotero, for instance, states clearly what users are allowed to do with the code (Wilkins, 2021). 
 
-- Flexbility: finally, OSS is flexible and affordable. Users can adapt the code to their own and others’ needs, and there are usually no licence or maintenance fees, unlike with proprietary software (Harness, 2024). 
+- Flexibility: finally, OSS is flexible and affordable. Users can adapt the code to their own and others’ needs, and there are usually no licence or maintenance fees, unlike with proprietary software (Harness, 2024). 
 
-This freedom still has limits, however, because every user must follow the terms of the licence. OSS also encourages knowledge sharing. Contributors learn from each other and gain experience in new fields through community-based work. 
+This freedom still has limits, however, because every user must follow the terms of the licence. 
+
+OSS also encourages knowledge sharing. Contributors learn from each other and gain experience in new fields through community-based work. 
 
 [Open Source Software Explained: Benefits, Challenges, and How It Works](https://youtu.be/rSmkCdmL3KE)
 

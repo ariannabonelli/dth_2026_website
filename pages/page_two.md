@@ -2,9 +2,11 @@
 
 ## Disadvantages of Open Source Software
 
-Despite its strengths, OSS also has clear disadvantages. 
+Despite its strengths, OSS also has disadvantages. 
  
-Because OSS often relies on volunteers, the effort can be inconsistent, which may delay the support a project needs to run well. Another aspect is related to reachability. It can be hard to reach the right developers when support is needed, since there is no single company to contact (Mathpati, 2023). 
+Because OSS often relies on volunteers, the effort can be inconsistent, which may delay the support a project needs to run well. 
+
+Another aspect is related to reachability. It can be hard to reach the right developers when support is needed, since there is no single company to contact (Mathpati, 2023). 
 
 ### When free comes at a cost
 
