@@ -1,12 +1,19 @@
-# Page three
+# Zotero
 
-## This is the headline of your third page
+## A Useful Open Source Project for Students in the Humanities
 
-The text on this page is written in the file **pages/page_three.md**. The first line, starting with a single #, becomes the heading in the banner.
+Zotero is an OSS tool that helps users organise, annotate, cite, collect, and share research. It was “developed by an independent, non-profit organization that has no financial interest” in users’ private information.
 
-There is only one HTML file, index.html. It holds the frame around the text: the navigation, the banner and the footer. The link in the navigation decides which markdown file is shown inside the frame. The words themselves live in a markdown file, which is much quicker to write than HTML. Many websites work the same way: the content is kepdt separately from the page that displays it.
+The tool automatically detects the research materials we are looking at while browsing the web. It also allows us to organize them into collections and use keywords to make them easier to find.
 
-### Another headline
+Furthermore, it can automatically generate references directly in the document we are working on.
+It synchronises all our data across different devices and allows us to write papers collaboratively with others, creating what is known as a “collaborative bibliography”. In simple terms, Zotero can be described as a reference manager.
+  
+It was created by "a team of faculty, students, and developers at RRCHNM (Roy Rosenzweig Center for History and New Media)". It was initially developed with humanities students in mind, but is now used across many other disciplines as well (Mills, 2021). 
 
-1. Numbered lists work too
-2. Just start the lines with numbers
+
+As a student in the Faculty of Humanities, I can see the appeal and usefulness of this OSS. Writing research papers and essays is part of our everyday student life. We read a lot online, especially nowadays, in 2026. This leads us to spend a considerable amount of time keeping track of the websites and links we use and turning them into references.
+
+While writing a paper, Zotero helps me to collect and organise all the academic articles, books, and websites I consult, and automatically generating citations and a bibliography. 
+
+### The five checks
