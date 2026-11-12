@@ -11,7 +11,7 @@
   --light-blue: #b07ffb;
   --green: #ba73f0;
   --purple: #be83f3;
-  --red: #6200ff;
+  --red: #891f1f;
   --yellow: #fddd0d;
   --projectFont: Merriweather, Georgia, serif;
 }
@@ -23,6 +23,7 @@ body {
   padding: 0;
   margin: 0;
   font-weight: 300;
+  background-color: #fcfcfc;
 }
 
 /* some of HTML elements come with element specific style, we want to remove it so we can style them ourselves */
