@@ -4,7 +4,7 @@
 
 Zotero is an OSS tool that helps users organise, annotate, cite, collect, and share research. It was “developed by an independent, non-profit organization that has no financial interest” in users’ private information.
 
-The tool automatically detects the research materials we are looking at while browsing the web allowing us to organize them into collections and use keywords to make them easier to find. It generates references directly in the document we are working on.
+The tool automatically detects the research materials we are looking at while browsing the web. It generates references directly in the document we are working on.
 It synchronises all our data across different devices and allows us to write papers collaboratively with others.
   
 It was created by "a team of faculty, students, and developers at RRCHNM (Roy Rosenzweig Center for History and New Media)". It was initially developed with humanities students in mind, but is now used across many other disciplines as well (Mills, 2021). 
@@ -28,9 +28,9 @@ The Zotero name is trademarked and cannot be used freely for modified versions.
 
 4.  **Questions**: it has 2,690 closed and 1,413 open issues, reported by developers. Users report problems and submit feature requests through "Zotero Forum", a very active platform.
 
-5.  **Money**: Zotero is funded through paid storage subscriptions from individuals and organizations, while the software itself is free. They also offer plans for research labs and institutions.
+5.  **Money**: Zotero is funded through paid storage subscriptions from individuals and organizations, while the software itself is free.
 
-
+I would definitely rely on Zotero for my thesis. In fact, I feel that once you start using it,it becomes difficult to imagine working without it! It is a great help in making the whole writing process less frustrating. I would definitely reccomend it to other students, and I do not think I would want to go back to working without it.
 
 https://www.zotero.org/
 

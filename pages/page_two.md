@@ -1,8 +1,6 @@
 # What are the disadvantages of Open Source Software?
 
 ## Disadvantages of Open Source Software
-
-Despite its strengths, OSS also has some disadvantages.
  
 Because OSS often relies on volunteers, the effort can be inconsistent, which may delay the support a project needs to run well. 
 
