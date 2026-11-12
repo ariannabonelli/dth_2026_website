@@ -18,7 +18,7 @@ Zotero helps me collect and organise the sources while automatically generating 
 
 Is a "free, copyleft license for software and other kinds of works, specifically designed to ensure cooperation with the community in the case of network server software." 
 
-**Main conditions**: the modified versions must disclose changes and retain the same licence. If run on a server, the source code must be made available to users. No additional restictions or fees can be imposed.
+**Main conditions**: the modified versions must disclose changes and retain the same licence. If run on a server, the source code must be made available to users. No additional restrictions or fees can be imposed.
 
 The Zotero name is trademarked and cannot be used freely for modified versions.
 
