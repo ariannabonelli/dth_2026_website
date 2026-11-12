@@ -30,7 +30,7 @@ The Zotero name is trademarked and cannot be used freely for modified versions.
 
 5.  **Money**: Zotero is funded through paid storage subscriptions from individuals and organizations, while the software itself is free.
 
-I would definitely rely on Zotero for my thesis. In fact, I feel that once you start using it,it becomes difficult to imagine working without it! It is a great help in making the whole writing process less frustrating. I would definitely reccomend it to other students, and I do not think I would want to go back to working without it.
+I would definitely rely on Zotero for my thesis. In fact, I feel that once you start using it, it becomes difficult to imagine working without it! It is a great help in making the whole writing process less frustrating. I would definitely recommend it to other students, and I do not think I would want to go back to working without it.
 
 https://www.zotero.org/
 
