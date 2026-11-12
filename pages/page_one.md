@@ -8,7 +8,7 @@ When we talk about Open source software (OSS) we refer to software whose source 
 
 The greatest strengths are: 
 
-- **Collaboration**: contributors bring ideas, skills, and fixes, which improve the software (Harness, 2024). Many projects are guided by a core team of maintainers, who set the direction, review contributions, and make sure coding standards are followed. When a user finds a bug, they can read the contributor guidelines and propose a fix themselves (Wilkins, 2021).
+- **Collaboration**: contributors bring ideas, skills, and fixes, which improve the software (Harness, 2024). Many projects are guided by a core team of maintainers, who set the direction, review contributions, and make sure coding standards are followed (Wilkins, 2021). When a user finds a bug, they can read the contributor guidelines and propose a fix themselves (Wilkins, 2021).
  
 - **Transparency**: on GitHub, for example, anyone can see a project's licence, its latest changes, and its contributors. The licence of Zotero, for instance, states clearly what users are allowed to do with the code (Wilkins, 2021). 
 
