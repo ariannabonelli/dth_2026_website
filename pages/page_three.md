@@ -11,7 +11,7 @@ It was created by "a team of faculty, students, and developers at RRCHNM". It wa
 
 As a student in the Faculty of Humanities, I can see the usefulness of this OSS. Writing research papers and essays involves consulting many online sources, which can make keeping track of references time-consuming.
 
-Zotero helps me collect and organise the sources while automatically generating citations and bibliographies, making the research process easier and more efficient. 
+Zotero helps me collect and organise the sources while automatically generating citations and bibliographies, making the research process easier and more fun and efficient. 
 
 ### The five checks
 1.  **Licence**: GNU Affero General Public License, version 3 (AGPLv3). 
@@ -26,9 +26,9 @@ The Zotero name is trademarked and cannot be used freely for modified versions.
 
 3.  **People**: 90 contributors. Most development relies on one main contributor and two others.
 
-4.  **Questions**: it has 2,690 closed and 1,413 open issues, reported by developers. Users report problems and subit feature requests through "Zotero Forum", a very active platform.
+4.  **Questions**: it has 2,690 closed and 1,413 open issues, reported by developers. Users report problems and submit feature requests through "Zotero Forum", a very active platform.
 
-5.  **Money**: Zoter is funded through paid storage subscriptions from individuals and organizations, while the software itself is free.
+5.  **Money**: Zotero is funded through paid storage subscriptions from individuals and organizations, while the software itself is free.
 
 
 

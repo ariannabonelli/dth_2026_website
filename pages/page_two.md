@@ -4,7 +4,9 @@
  
 Because OSS often relies on volunteers, the effort can be inconsistent, which may delay the support a project needs to run well. 
 
-### When free comes at a cost
+### Some limitations to consider
+
+- **Reachability**: it can be hard to reach the right developers when support is needed, since there is no single company to contact (Mathpati, 2023).
 
 - **Security**: because the code is public, attackers can study it for weaknesses, and a small team may not have the time to fix them quickly; it's important to keep the software up to date and follow best practices (Mathpati, 2023). 
  
