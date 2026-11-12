@@ -14,6 +14,8 @@ The greatest strengths are:
 
 - **Flexibility**: OSS is flexible and affordable. Users can adapt the code to their own and others’ needs, and there are usually no licence or maintenance fees, unlike with proprietary software (Harness, 2024). 
 
+However, this freedom is not unlimited, as users are still required to comply with the terms of the software licence.
+
 OSS also encourages knowledge sharing. Contributors learn from each other and gain experience in new fields through community-based work. 
 
 [Open Source Software Explained: Benefits, Challenges, and How It Works](https://youtu.be/rSmkCdmL3KE)
