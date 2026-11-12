@@ -22,7 +22,7 @@ Is a "free, copyleft license for software and other kinds of works, specifically
 
 The Zotero name is trademarked and cannot be used freely for modified versions.
 
-2.  **Last change**: 10th of November 
+2.  **Last change**: 11th of November 
 
 3.  **People**: 90 contributors. Most development relies on one main contributor and two others.
 
