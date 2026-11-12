@@ -230,3 +230,7 @@ main img {
 }
 
 h2 { color: var(--red); }
+
+main h3 {
+  color: #7b2d26;
+}
