@@ -32,7 +32,7 @@ The Zotero name is trademarked and cannot be used freely for modified versions.
 
 I would definitely rely on Zotero for my thesis. In fact, I feel that once you start using it, it becomes difficult to imagine working without it! It is a great help in making the whole writing process less frustrating. I would definitely recommend it to other students, and I do not think I would want to go back to working without it.
 
-##References
+## References
 
 https://www.zotero.org/
 

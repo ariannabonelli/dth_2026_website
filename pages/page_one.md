@@ -18,6 +18,6 @@ OSS also encourages knowledge sharing. Contributors learn from each other and ga
 
 [Open Source Software Explained: Benefits, Challenges, and How It Works](https://youtu.be/rSmkCdmL3KE)
 
-##References
+## References
 
 https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/
